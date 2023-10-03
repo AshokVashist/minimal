@@ -10,10 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Data Science Fraud detection
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Fraud represents a significant problem for governments and businesses and specialized analysis techniques for discovering fraud using them are required. Some of these methods include knowledge discovery in databases (KDD), data mining, machine learning and statistics. They offer applicable and successful solutions in different areas of electronic fraud crimes.
 
+In general, the primary reason to use data analytics techniques is to tackle fraud since many internal control systems have serious weaknesses. For example, the currently prevailing approach employed by many law enforcement agencies to detect companies involved in potential cases of fraud consists in receiving circumstantial evidence or complaints from whistleblowers. As a result, a large number of fraud cases remain undetected and unprosecuted. In order to effectively test, detect, validate, correct error and monitor control systems against fraudulent activities, businesses entities and organizations rely on specialized data analytics techniques such as data mining, data matching, the sounds like function, regression analysis, clustering analysis, and gap analysis. Techniques used for fraud detection fall into two primary classes: statistical techniques and artificial intelligence.
 ## Header 2
 
 > This is a blockquote following a header.
